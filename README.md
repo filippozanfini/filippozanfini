@@ -6,7 +6,7 @@
 
 - 👨‍💻 Software Developer
 
-- 🇮🇹 I'm 21 years old and I live in Italy
+- 🇮🇹 I'm 22 years old and I live in Italy
 
 - 🎓 I’m currently studying **Computer Science** at **University of Calabria**
 
