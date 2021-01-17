@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-- 📱 Founder **[Gooba](https://goobapp.com)**
+- 📱 Developer of **[Gooba](https://goobapp.com)**
 
 - 👨‍💻 Software Developer
 
