@@ -4,7 +4,7 @@
 
 - 📱 Developer of **[Gooba](https://goobapp.com)**
 
-- 👨‍💻 Software Developer
+- 👨‍💻 Full Stack Developer
 
 - 🇮🇹 I'm 22 years old and I live in Italy
 
