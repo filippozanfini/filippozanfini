@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-- 📱 Developer of **[Gooba](https://apps.apple.com/it/app/gooba/id1258233354)**
+- 💼 Developer **[Altrama](https://altrama.com/)**
 
 - 👨‍💻 Full Stack Developer
 
