@@ -4,7 +4,7 @@
 
 - 💼 Developer **[Altrama](https://altrama.com/)**
 
-- 👨‍💻 Full Stack Developer
+- 👨‍💻 JS • React • React Native
 
 - 🇮🇹 I'm 22 years old and I live in Italy
 
