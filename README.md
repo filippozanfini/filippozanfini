@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Filippo</h1>
+<h1 align="center">Hi 👋<br>I'm Filippo</h1>
 
 <h2>About me</h2>
 
