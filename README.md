@@ -6,7 +6,7 @@
 
 - 👨‍💻 JS • React • React Native
 
-- 🇮🇹 I'm 22 years old and I live in Italy
+- 🇮🇹 I'm 23 years old and I live in Italy
 
 - 🎓 I’m currently studying **Computer Science** at **University of Calabria**
 
