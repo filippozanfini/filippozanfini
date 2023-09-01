@@ -2,6 +2,8 @@
 
 <h2>About me</h2>
 
+- 💼 Founder **[Atlasdot](https://atlasdot.com/)**
+
 - 💼 Developer **[Altrama](https://altrama.com/)**
 
 - 👨‍💻 JS • React • React Native
