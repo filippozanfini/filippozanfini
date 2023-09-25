@@ -2,15 +2,13 @@
 
 <h2>About me</h2>
 
-- 💼 Founder **[Atlasdot](https://atlasdot.com/)**
+- 💼 Founder / Tech Lead **[Atlasdot](https://atlasdot.com/)**
 
-- 💼 Developer **[Altrama](https://altrama.com/)**
+- 💼 Lead Frontend Engineer **[Altrama](https://altrama.com/)**
 
-- 👨‍💻 JS • React • React Native
+- 👨‍💻 TypeScript • React • React Native
 
 - 🇮🇹 I'm 24 years old and I live in Italy
-
-- 🎓 I’m currently studying **Computer Science** at **University of Calabria**
 
 - 📫 How to reach me: **[My website](https://filippozanfini.com)**
 
