@@ -6,7 +6,7 @@
 
 - 👨‍💻 TypeScript • React • React Native
 
-- 🇮🇹 I'm 24 years old and I live in Italy
+- 🇮🇹 I'm 25 years old and I live in Italy
 
 - 📫 How to reach me: **[My website](https://filippozanfini.com)**
 
