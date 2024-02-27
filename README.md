@@ -2,8 +2,6 @@
 
 <h2>About me</h2>
 
-- 💼 Founder / Tech Lead **[Atlasdot](https://atlasdot.com/)**
-
 - 💼 Lead Frontend Engineer **[Altrama](https://altrama.com/)**
 
 - 👨‍💻 TypeScript • React • React Native
