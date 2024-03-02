@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-- 💼 Lead Frontend Engineer **[Altrama](https://altrama.com/)**
+- 💼 Software Engineer **[Altrama](https://altrama.com/)**
 
 - 👨‍💻 TypeScript • React • React Native
 
