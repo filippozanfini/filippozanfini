@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-- 💼 Software Engineer **[Altrama](https://altrama.com/)**
+- 💼 Software Engineer
 
 - 👨‍💻 TypeScript • React • React Native
 
