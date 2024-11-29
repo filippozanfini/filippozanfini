@@ -4,7 +4,7 @@
 
 - 💼 Software Engineer
 
-- 👨‍💻 TypeScript • React • React Native + Next.js
+- 👨‍💻 TypeScript • React • React Native • Next.js
 
 - 🇮🇹 I'm 26 years old and I live in Italy
 
