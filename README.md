@@ -4,9 +4,9 @@
 
 - 💼 Software Engineer
 
-- 👨‍💻 TypeScript • React • React Native
+- 👨‍💻 TypeScript • React • React Native + Next.js
 
-- 🇮🇹 I'm 25 years old and I live in Italy
+- 🇮🇹 I'm 26 years old and I live in Italy
 
 - 📫 How to reach me: **[My website](https://filippozanfini.com)**
 
